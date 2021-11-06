@@ -150,10 +150,10 @@ async def addFooter(str):
 ━━━━━━━━━━━━━━━
 ʜᴏᴡ ᴛᴏ Install PLAYit or KM Player to watch [Help](https://play.google.com/store/apps/details?id=com.playit.videoplayer&referrer=utm_source%3DGP_share%26utm_medium%3Dguidedial%26utm_campaign%3D3c717a07c157fab0). 
 ━━━━━━━━━━━━━━━
-📢 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 
+📢 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @P4PornVids
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-           🔅 @""" + CHANNEL 🔅
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+
+
     return str + footer
 
 bot.run()
