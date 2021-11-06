@@ -27,7 +27,7 @@ bot = Client('pdisk bot',
 async def start(bot, message):
     await message.reply(
         f"**𝐇𝐞𝐥𝐥𝐨! 👨‍💻{message.chat.first_name}!**\n\n"
-        "𝐈'𝐦 𝐚 𝐏𝐝𝐢𝐬𝐤 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐫 𝐛𝐨𝐭. 𝐉𝐮𝐬𝐭 𝐬𝐞𝐧𝐝 𝐦𝐞 𝐥𝐢𝐧𝐤 𝐨𝐫 𝐅𝐮𝐥𝐥 𝐩𝐨𝐬𝐭... \n 𝐓𝐡𝐢𝐬 𝐛𝐨𝐭 𝐢𝐬 𝐦𝐚𝐝𝐞 𝐛𝐲 𝐌𝐨𝐯𝐢𝐞𝐬 𝐎𝐰𝐧𝐞𝐫 [@MoviesFlixers_DL](https://t.me/MoviesFlixers_DL)")
+        "𝐈'𝐦 𝐚 𝐏𝐝𝐢𝐬𝐤 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐫 𝐛𝐨𝐭. 𝐉𝐮𝐬𝐭 𝐬𝐞𝐧𝐝 𝐦𝐞 𝐥𝐢𝐧𝐤 𝐨𝐫 𝐅𝐮𝐥𝐥 𝐩𝐨𝐬𝐭... \n 𝐓𝐡𝐢𝐬 𝐛𝐨𝐭 𝐢𝐬 𝐦𝐚𝐝𝐞 𝐛𝐲 Accentric [@P4PornVids](https://t.me/P4PornVids)")
 
 
 @bot.on_message(filters.text & filters.private)
@@ -148,7 +148,7 @@ async def remove_username(new_List):
 async def addFooter(str):
     footer = """
 ━━━━━━━━━━━━━━━
-ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ Get Tuts On [@Pᴅɪsᴋ_ᴛᴜᴛs](https://t.me/joinchat/xxz1cj6N1jswYmNl). 
+ʜᴏᴡ ᴛᴏ Install PLAYit or KM Player to watch [Help](https://play.google.com/store/apps/details?id=com.playit.videoplayer&referrer=utm_source%3DGP_share%26utm_medium%3Dguidedial%26utm_campaign%3D3c717a07c157fab0). 
 ━━━━━━━━━━━━━━━
 📢 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
