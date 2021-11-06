@@ -152,8 +152,9 @@ async def addFooter(str):
 ━━━━━━━━━━━━━━━
 📢 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @P4PornVids
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+    return str + footer ()
 
 
-    return str + footer
+    r
 
-bot.run()
+bot
